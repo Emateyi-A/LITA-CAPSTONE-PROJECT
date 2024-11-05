@@ -1,5 +1,5 @@
 # LITA 
-## Project Title:Sales Analysis 
+## Project Title:Capstone Project  
 ### Project general scope
 
 ### Data Sources 
